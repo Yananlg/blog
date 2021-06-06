@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ensoul</title>
+  
+  <subtitle>Take Have Love Free</subtitle>
+  <link href="http://blog.ensoul.club/atom.xml" rel="self"/>
+  
+  <link href="http://blog.ensoul.club/"/>
+  <updated>2021-06-06T11:41:59.454Z</updated>
+  <id>http://blog.ensoul.club/</id>
+  
+  <author>
+    <name>陈北鱼</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>回忆</title>
+    <link href="http://blog.ensoul.club/2017/05/18/%E5%9B%9E%E5%BF%86/"/>
+    <id>http://blog.ensoul.club/2017/05/18/%E5%9B%9E%E5%BF%86/</id>
+    <published>2017-05-17T16:00:00.000Z</published>
+    <updated>2021-06-06T11:41:59.454Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;当时间还剩下最后5秒中的时候，我从车上跳了下来。而另一个小子缺突然窜了上去。强对我无奈的笑了一下，我轻轻摇头。&lt;/p&gt;
+&lt;p&gt;我在嘲笑一个人，那个人是我，是强，或者是我们俩。胆小、怯懦、无能…我心里想着大抵如此的词汇，开始我那力挺身板两手插兜的标准走姿。强大概也在咒骂着自己</summary>
+        
+      
+    
+    
+    
+    <category term="平行空间" scheme="http://blog.ensoul.club/categories/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/"/>
+    
+    
+    <category term="情感" scheme="http://blog.ensoul.club/tags/%E6%83%85%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>过于喧嚣的孤独</title>
+    <link href="http://blog.ensoul.club/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/"/>
+    <id>http://blog.ensoul.club/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/</id>
+    <published>2017-05-16T16:00:00.000Z</published>
+    <updated>2021-06-06T11:40:43.806Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;惟独太阳有权利身上带着斑点。</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="http://blog.ensoul.club/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="孤独" scheme="http://blog.ensoul.club/tags/%E5%AD%A4%E7%8B%AC/"/>
+    
+    <category term="书摘" scheme="http://blog.ensoul.club/tags/%E4%B9%A6%E6%91%98/"/>
+    
+  </entry>
+  
+</feed>

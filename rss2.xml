@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ensoul</title>
+    <link>http://blog.ensoul.club/</link>
+    
+    <atom:link href="http://blog.ensoul.club/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>是非审之于己，毁誉听之于人，得失安之于数，成败归之于零</description>
+    <pubDate>Sun, 06 Jun 2021 11:41:59 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>回忆</title>
+      <link>http://blog.ensoul.club/2017/05/18/%E5%9B%9E%E5%BF%86/</link>
+      <guid>http://blog.ensoul.club/2017/05/18/%E5%9B%9E%E5%BF%86/</guid>
+      <pubDate>Wed, 17 May 2017 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;当时间还剩下最后5秒中的时候，我从车上跳了下来。而另一个小子缺突然窜了上去。强对我无奈的笑了一下，我轻轻摇头。&lt;/p&gt;
+&lt;p&gt;我在嘲笑一个人，那个人是我，是强，或者是我们俩。胆小、怯懦、无能…我心里想着大抵如此的词汇，开始我那力挺身板两手插兜的标准走姿。强大概也在咒骂着自己</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://blog.ensoul.club/categories/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/">平行空间</category>
+      
+      
+      <category domain="http://blog.ensoul.club/tags/%E6%83%85%E6%84%9F/">情感</category>
+      
+      
+      <comments>http://blog.ensoul.club/2017/05/18/%E5%9B%9E%E5%BF%86/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>过于喧嚣的孤独</title>
+      <link>http://blog.ensoul.club/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/</link>
+      <guid>http://blog.ensoul.club/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/</guid>
+      <pubDate>Tue, 16 May 2017 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;惟独太阳有权利身上带着斑点。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://blog.ensoul.club/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">读书笔记</category>
+      
+      
+      <category domain="http://blog.ensoul.club/tags/%E5%AD%A4%E7%8B%AC/">孤独</category>
+      
+      <category domain="http://blog.ensoul.club/tags/%E4%B9%A6%E6%91%98/">书摘</category>
+      
+      
+      <comments>http://blog.ensoul.club/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
