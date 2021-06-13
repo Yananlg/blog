@@ -3,11 +3,11 @@
   <title>Ensoul</title>
   
   <subtitle>Take Have Love Free</subtitle>
-  <link href="http://blog.ensoul.club/atom.xml" rel="self"/>
+  <link href="http://www.ensoul.club/atom.xml" rel="self"/>
   
-  <link href="http://blog.ensoul.club/"/>
+  <link href="http://www.ensoul.club/"/>
   <updated>2021-06-12T10:24:13.686Z</updated>
-  <id>http://blog.ensoul.club/</id>
+  <id>http://www.ensoul.club/</id>
   
   <author>
     <name>陈北鱼</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>回忆</title>
-    <link href="http://blog.ensoul.club/2017/05/18/%E5%9B%9E%E5%BF%86/"/>
-    <id>http://blog.ensoul.club/2017/05/18/%E5%9B%9E%E5%BF%86/</id>
+    <link href="http://www.ensoul.club/2017/05/18/%E5%9B%9E%E5%BF%86/"/>
+    <id>http://www.ensoul.club/2017/05/18/%E5%9B%9E%E5%BF%86/</id>
     <published>2017-05-17T16:00:00.000Z</published>
     <updated>2021-06-12T10:24:13.686Z</updated>
     
@@ -35,17 +35,17 @@
     
     
     
-    <category term="平行空间" scheme="http://blog.ensoul.club/categories/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/"/>
+    <category term="平行空间" scheme="http://www.ensoul.club/categories/%E5%B9%B3%E8%A1%8C%E7%A9%BA%E9%97%B4/"/>
     
     
-    <category term="情感" scheme="http://blog.ensoul.club/tags/%E6%83%85%E6%84%9F/"/>
+    <category term="情感" scheme="http://www.ensoul.club/tags/%E6%83%85%E6%84%9F/"/>
     
   </entry>
   
   <entry>
     <title>过于喧嚣的孤独</title>
-    <link href="http://blog.ensoul.club/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/"/>
-    <id>http://blog.ensoul.club/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/</id>
+    <link href="http://www.ensoul.club/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/"/>
+    <id>http://www.ensoul.club/2017/05/17/%E8%BF%87%E4%BA%8E%E5%96%A7%E5%9A%A3%E7%9A%84%E5%AD%A4%E7%8B%AC/</id>
     <published>2017-05-16T16:00:00.000Z</published>
     <updated>2021-06-12T10:17:00.599Z</updated>
     
@@ -60,12 +60,12 @@
     
     
     
-    <category term="读书笔记" scheme="http://blog.ensoul.club/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="http://www.ensoul.club/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="孤独" scheme="http://blog.ensoul.club/tags/%E5%AD%A4%E7%8B%AC/"/>
+    <category term="孤独" scheme="http://www.ensoul.club/tags/%E5%AD%A4%E7%8B%AC/"/>
     
-    <category term="书摘" scheme="http://blog.ensoul.club/tags/%E4%B9%A6%E6%91%98/"/>
+    <category term="书摘" scheme="http://www.ensoul.club/tags/%E4%B9%A6%E6%91%98/"/>
     
   </entry>
   
